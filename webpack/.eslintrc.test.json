@@ -1,0 +1,19 @@
+{
+  "extends": "eslint:recommended",
+
+  "rules": {
+    "import/no-extraneous-dependencies": [2, { "devDependencies": true }],
+    "no-unused-expressions": 0
+  },
+
+  "env": {
+    "mocha": true,
+    "browser": true,
+    "node": true
+  },
+
+  "globals": {
+    "fixture": true,
+    "sinon": true
+  }
+}

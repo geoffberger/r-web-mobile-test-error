@@ -1,0 +1,2 @@
+webpackJsonp([4],{49:function(e,i,o){function n(){d("#js-welcome__line-slideshow").slick({arrows:!1,dots:!0,centerMode:!0,centerPadding:"12%",infinite:!1,mobileFirst:!0,autoplay:!1,autoplaySpeed:5e3,slidesToShow:1,slide:"div"})}var d=o(0);o(1),d(document).ready(function(){n()})}},[49]);
+//# sourceMappingURL=welcomejapan.js.map
