@@ -9,7 +9,7 @@ var expect = chai.expect;
 chai.use(chaiJquery);
 chai.use(sinonChai);
 
-describe('Heart Product', function() {
+xdescribe('Heart Product', function() {
   var sandbox;
   var server;
   var $heart;

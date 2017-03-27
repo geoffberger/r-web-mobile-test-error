@@ -7,7 +7,7 @@ var expect = chai.expect;
 chai.use(chaiJquery);
 
 
-describe('Manage Refine Menu', function() {
+xdescribe('Manage Refine Menu', function() {
   var $fixture;
   var $filterOptions;
   var $sortOptions;
